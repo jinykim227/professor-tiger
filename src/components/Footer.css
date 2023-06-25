@@ -1,0 +1,31 @@
+.footer {
+   position: relative;
+   width: 100%;
+   padding: 3rem 1rem;
+   background-color: black;
+}
+
+.footer .container {
+    max-width: 1240px;
+    margin: auto;
+    text-align: center;
+}
+
+.footer .container .nav-item a {
+    color: var(--primary-dark);
+}
+
+.footer ul {
+    display: flex;
+    justify-content: center;
+}
+
+.footer li {
+    padding: 1rem;
+}
+
+.bottom {
+    text-align: center;
+    padding-top: 3rem;
+    color: white;
+}
