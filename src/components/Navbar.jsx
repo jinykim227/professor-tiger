@@ -24,7 +24,7 @@ const Navbar = () => {
 
   window.addEventListener('scroll', handleScroll);
 
-  // Close menu on click
+  // Close menu on click not setup yet
   const closeMenu = () => setClick(false);
 
   return (
